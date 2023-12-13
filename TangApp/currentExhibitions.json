@@ -1,46 +1,44 @@
-[
- {
-   "title": "Hyde Cabinet #23: Contre Le Sexism",
-   "location": "Hyde Cabinet",
-   "start date": "12/2/2023",
-   "end date": "2/11/2024",
-   "description": "Hyde Cabinet #23: Contre Le Sexism pairs a photograph of Kim Gordon by Chris Cuffaro with the album insert from a CD edition of A Thousand Leaves by Sonic Youth to explore seemingly contradictory concepts of girlhood and femininity. Together, these works evoke playfulness and angst, resilience and vulnerability, challenging sexist expectations about how women should respond when faced with adversity or when stepping into the spotlight. “Contre Le Sexism” is the opening track to the A Thousand Leaves album and presents feminist themes found in Sonic Youth’s songs.",
-   "curationInfo": "The Hyde Cabinet, named in honor of Megan Hyde, former Tang Educator for College and Public Programs and Curatorial Assistant, is curated by members of the Tang Student Advisory Council. Hyde Cabinet #23: Contre Le Sexism is organized by Chiara Garcia-Ugarte ’25 and supported by the Friends of the Tang.",
-   "includedWorks": "Chris Cuffaro, Kim Gordon",
-   "mainImage": "hyde-cabinet-23/1.jpeg",
-   "imageGallery": ["hyde-cabinet-23/1.jpeg"]
- },
- {
-   "title": "Paula Wilson: Toward the Sky’s Back Door",
-   "location": "Wachenheim Gallery",
-   "start date": "7/15/2023",
-   "end date": "12/30/2023",
-   "description": "Paula Wilson: Toward the Sky’s Back Door breaks down perceived boundaries to connect global and local narratives through subjects as wide-ranging as the moth that pollinates Yucca plants, ancient Greek vases, West African D’mba, and modern technologies. The exhibition presents paintings, sculpture, prints, collages, and videos—with different media frequently intermixed in a single work, including a new monumental figure being shown for the first time. Using the same techniques and styles to make art for viewing on the gallery wall as for the rugs she walks on and clothes she wears, Wilson challenges the separations between art and everyday living. Often biographically oriented, her work investigates the polarities of human life, including her own identity as a biracial woman and her experiences living in both major metropolises and the small desert railroad town of Carrizozo, New Mexico. Wilson’s work has been exhibited throughout the United States and internationally, and is in the permanent collections of The Studio Museum in Harlem, the Albuquerque Museum, the New York Public Library, The Fabric Workshop and Museum, the Yale University Art Gallery, and the Tang Teaching Museum, among others. Born in Chicago, Wilson earned her BFA from Washington University in St. Louis and MFA from Columbia University in New York. She is the cofounder of the artist-run organizations Carrizozo Artist-in-Residency and MoMAZoZo.",
-   "curationInfo": "Paula Wilson: Toward the Sky’s Back Door is organized by Associate Curator Rebecca McNamara in collaboration with the artist and is supported by Friends of the Tang. The exhibition will travel to the California African American Museum (CAAM), Los Angeles, where it will be on view from April 3 to August 18, 2024.",
-   "includedWorks": "see paula wilson checklist",
-   "mainImage": "paula-wilson/1.jpeg",
-   "imageGallery": ["paula-wilson/1.jpeg","paula-wilson/2.jpeg","paula-wilson/3.jpeg","paula-wilson/4.jpeg","paula-wilson/5.jpeg"]
- },
- {
-   "title": "Unset Texts",
-   "location": "Winter Gallery",
-   "start date": "9/2/2023",
-   "end date": "12/30/2023",
-   "description": "We often think of books as containers for language, narrative, and thought. But what happens when we see them as aesthetic objects as well? In the hands of artists, books can take on new and expanded meanings. Unset Texts presents sculpture, photographs, collage, painting, prints, and artist’s books from the Tang collection and Scribner Library’s Special Collections that explore printed material in creative and critical ways. The exhibition considers how experimentation with printed text and the book as an object poses new possibilities for storytelling and artistic exploration and for engaging with questions of history, representation, and justice.",
-   "curationInfo": "Unset Texts is curated by Skidmore Associate Professor of English Paul Benzon with Tang Associate Curator Rebecca McNamara. The exhibition is presented in conjunction with the Scribner Seminar course “Weird Books,” which Benzon teaches during fall semester 2023.",
-   "includedWorks": "see unset texts checklist",
-   "mainImage": "unset-texts/1.jpeg",
-   "imageGallery": ["unset-texts/1.jpeg","unset-texts/2.jpeg"]
- },
- {
-   "title": "Forms of Awakening: Selections from the Jack Shear Collection of Himalayan Art",
-   "location": "Malloy Wing",
-   "start date": "8/19/2023",
-   "end date": "12/10/2023",
-   "description": "Forms of Awakening: Selections from the Jack Shear Collection of Himalayan Art presents over twenty-five thangka that demonstrate the multivalent and critical roles of Himalayan artists in the practice of Buddhism. Traditional Tibetan paintings—thangka—are used as instructional and devotional objects, with Buddhist imagery painted on cloth and typically covered by a curtain of fabric and rolled for storage when not in use. In an ongoing practice that dates back many centuries, thangka paintings have been displayed during rituals and at certain times of year in monasteries, local shrines, and households, as objects of veneration, tokens of blessing, guides for meditation, and tools for teaching and learning.\n \n In Tibetan Buddhist thought, one’s ordinary perceptions of the world and one’s self-centered existence are a mirage that gives rise to desire, delusion, and hatred. For centuries, Tibetan artists have depicted other ways of seeing the world—forms of awakening from this dreamlike illusion. In the most abstract sense, awakening is without form and without limit; however, with pure perception, the awakened nature may be recognized in images of buddha bodies, in forms of sacred architecture, and in the mountains and valleys of the Himalaya. This exhibition is organized into three sections to highlight these aspects of the awakened nature: the body, architecture, and the landscape.\n \n  \n Contemporary artists of Tibetan heritage also engage with the body, architecture, and the landscape as sites for transforming perception and waking up to elements of reality unnoticed in our everyday lives. The exhibition features works by Tenzin Phuntsog, Palden Weinreb, and Nyema Droma, who work within, beyond, and in dialogue with traditional forms and themes.\n \n Forms of Awakening: Selections from the Jack Shear Collection of Himalayan Art celebrates the recent shared gift by Jack Shear to The Frances Young Tang Teaching Museum, The Williams College Museum of Art, and the Frances Lehman Loeb Center at Vassar College of over sixty Himalayan art works.\n \n Works from the gift have been presented in two recent exhibitions, Mastery and Merit: Tibetan Art from the Jack Shear Collection at the Frances Lehman Loeb Center, and Across Shared Waters: Contemporary Artists in Dialogue with Tibetan Art from the Jack Shear Collection at The Williams College Museum of Art. Find more information and exhibition images below.",
-   "curationInfo": "This exhibition is curated by Benjamin Bogin, Associate Professor of Asian Studies, Skidmore College with Rachel Seligman, Malloy Curator, Tang Museum, and Ariana Maki, Associate Director of the Tibet Center and Bhutan Initiative at the University of Virginia, and is supported by the Friends of the Tang.",
-   "includedWorks": "see forms of awakening checklist",
-   "mainImage": "forms-of-awakening/1.jpeg",
-   "imageGallery": ["forms-of-awakening/1.jpeg","forms-of-awakening/2.jpeg","forms-of-awakening/3.jpeg"]
- }
-]
+{
+    "data" : [
+        {
+           "title": "Hyde Cabinet #23: Contre Le Sexism",
+           "location": "Hyde Cabinet",
+           "startDate": "12/2/2023",
+           "endDate": "2/11/2024",
+           "description": "Hyde Cabinet #23: Contre Le Sexism pairs a photograph of Kim Gordon by Chris Cuffaro with the album insert from a CD edition of A Thousand Leaves by Sonic Youth to explore seemingly contradictory concepts of girlhood and femininity. Together, these works evoke playfulness and angst, resilience and vulnerability, challenging sexist expectations about how women should respond when faced with adversity or when stepping into the spotlight. “Contre Le Sexism” is the opening track to the A Thousand Leaves album and presents feminist themes found in Sonic Youth’s songs.",
+           "curationInfo": "The Hyde Cabinet, named in honor of Megan Hyde, former Tang Educator for College and Public Programs and Curatorial Assistant, is curated by members of the Tang Student Advisory Council. Hyde Cabinet #23: Contre Le Sexism is organized by Chiara Garcia-Ugarte ’25 and supported by the Friends of the Tang.",
+           "mainImage": "hyde-cabinet-23/1.jpeg",
+           "imageGallery": ["hyde-cabinet-23/1.jpeg"]
+         },
+         {
+           "title": "Paula Wilson: Toward the Sky’s Back Door",
+           "location": "Wachenheim Gallery",
+           "startDate": "7/15/2023",
+           "endDate": "12/30/2023",
+           "description": "Paula Wilson: Toward the Sky’s Back Door breaks down perceived boundaries to connect global and local narratives through subjects as wide-ranging as the moth that pollinates Yucca plants, ancient Greek vases, West African D’mba, and modern technologies. The exhibition presents paintings, sculpture, prints, collages, and videos—with different media frequently intermixed in a single work, including a new monumental figure being shown for the first time. Using the same techniques and styles to make art for viewing on the gallery wall as for the rugs she walks on and clothes she wears, Wilson challenges the separations between art and everyday living. Often biographically oriented, her work investigates the polarities of human life, including her own identity as a biracial woman and her experiences living in both major metropolises and the small desert railroad town of Carrizozo, New Mexico. Wilson’s work has been exhibited throughout the United States and internationally, and is in the permanent collections of The Studio Museum in Harlem, the Albuquerque Museum, the New York Public Library, The Fabric Workshop and Museum, the Yale University Art Gallery, and the Tang Teaching Museum, among others. Born in Chicago, Wilson earned her BFA from Washington University in St. Louis and MFA from Columbia University in New York. She is the cofounder of the artist-run organizations Carrizozo Artist-in-Residency and MoMAZoZo.",
+           "curationInfo": "Paula Wilson: Toward the Sky’s Back Door is organized by Associate Curator Rebecca McNamara in collaboration with the artist and is supported by Friends of the Tang. The exhibition will travel to the California African American Museum (CAAM), Los Angeles, where it will be on view from April 3 to August 18, 2024.",
+           "mainImage": "paula-wilson/1.jpeg",
+           "imageGallery": ["paula-wilson/1.jpeg","paula-wilson/2.jpeg","paula-wilson/3.jpeg","paula-wilson/4.jpeg","paula-wilson/5.jpeg"]
+         },
+         {
+           "title": "Unset Texts",
+           "location": "Winter Gallery",
+           "startDate": "9/2/2023",
+           "endDate": "12/30/2023",
+           "description": "We often think of books as containers for language, narrative, and thought. But what happens when we see them as aesthetic objects as well? In the hands of artists, books can take on new and expanded meanings. Unset Texts presents sculpture, photographs, collage, painting, prints, and artist’s books from the Tang collection and Scribner Library’s Special Collections that explore printed material in creative and critical ways. The exhibition considers how experimentation with printed text and the book as an object poses new possibilities for storytelling and artistic exploration and for engaging with questions of history, representation, and justice.",
+           "curationInfo": "Unset Texts is curated by Skidmore Associate Professor of English Paul Benzon with Tang Associate Curator Rebecca McNamara. The exhibition is presented in conjunction with the Scribner Seminar course “Weird Books,” which Benzon teaches during fall semester 2023.",
+           "mainImage": "unset-texts/1.jpeg",
+           "imageGallery": ["unset-texts/1.jpeg","unset-texts/2.jpeg"]
+         },
+         {
+           "title": "Forms of Awakening: Selections from the Jack Shear Collection of Himalayan Art",
+           "location": "Malloy Wing",
+           "startDate": "8/19/2023",
+           "endDate": "12/10/2023",
+           "description": "Forms of Awakening: Selections from the Jack Shear Collection of Himalayan Art presents over twenty-five thangka that demonstrate the multivalent and critical roles of Himalayan artists in the practice of Buddhism. Traditional Tibetan paintings—thangka—are used as instructional and devotional objects, with Buddhist imagery painted on cloth and typically covered by a curtain of fabric and rolled for storage when not in use. In an ongoing practice that dates back many centuries, thangka paintings have been displayed during rituals and at certain times of year in monasteries, local shrines, and households, as objects of veneration, tokens of blessing, guides for meditation, and tools for teaching and learning.\n \n In Tibetan Buddhist thought, one’s ordinary perceptions of the world and one’s self-centered existence are a mirage that gives rise to desire, delusion, and hatred. For centuries, Tibetan artists have depicted other ways of seeing the world—forms of awakening from this dreamlike illusion. In the most abstract sense, awakening is without form and without limit; however, with pure perception, the awakened nature may be recognized in images of buddha bodies, in forms of sacred architecture, and in the mountains and valleys of the Himalaya. This exhibition is organized into three sections to highlight these aspects of the awakened nature: the body, architecture, and the landscape.\n \n  \n Contemporary artists of Tibetan heritage also engage with the body, architecture, and the landscape as sites for transforming perception and waking up to elements of reality unnoticed in our everyday lives. The exhibition features works by Tenzin Phuntsog, Palden Weinreb, and Nyema Droma, who work within, beyond, and in dialogue with traditional forms and themes.\n \n Forms of Awakening: Selections from the Jack Shear Collection of Himalayan Art celebrates the recent shared gift by Jack Shear to The Frances Young Tang Teaching Museum, The Williams College Museum of Art, and the Frances Lehman Loeb Center at Vassar College of over sixty Himalayan art works.\n \n Works from the gift have been presented in two recent exhibitions, Mastery and Merit: Tibetan Art from the Jack Shear Collection at the Frances Lehman Loeb Center, and Across Shared Waters: Contemporary Artists in Dialogue with Tibetan Art from the Jack Shear Collection at The Williams College Museum of Art. Find more information and exhibition images below.",
+           "curationInfo": "This exhibition is curated by Benjamin Bogin, Associate Professor of Asian Studies, Skidmore College with Rachel Seligman, Malloy Curator, Tang Museum, and Ariana Maki, Associate Director of the Tibet Center and Bhutan Initiative at the University of Virginia, and is supported by the Friends of the Tang.",
+           "mainImage": "forms-of-awakening/1.jpeg",
+           "imageGallery": ["forms-of-awakening/1.jpeg","forms-of-awakening/2.jpeg","forms-of-awakening/3.jpeg"]
+         }
+    ]
+}

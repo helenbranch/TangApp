@@ -19,10 +19,10 @@ extension Exhibition {
     @NSManaged public var title: String?
     @NSManaged public var location: String?
     @NSManaged public var blurb: String?
-    @NSManaged public var startDate: Date?
-    @NSManaged public var endDate: Date?
+    @NSManaged public var startDate: String?
+    @NSManaged public var endDate: String?
     @NSManaged public var curatorInfo: String?
-    @NSManaged public var checklist: ArtworkArray?
+    @NSManaged internal var checklist: [String]?
     @NSManaged public var image: String?
 
 }

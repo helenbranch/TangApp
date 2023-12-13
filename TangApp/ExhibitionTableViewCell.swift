@@ -41,7 +41,7 @@ class ExhibitionTableViewCell: UITableViewCell {
     
     override func sizeThatFits(_ size: CGSize) -> CGSize {
         // Return the desired size for the cell content
-        return CGSize(width: size.width, height: 200.0) // Adjust the value based on your requirements
+        return CGSize(width: size.width, height: 200.0)
     }
     
     required init?(coder: NSCoder) {

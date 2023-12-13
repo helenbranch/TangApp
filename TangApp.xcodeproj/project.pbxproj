@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6E0F11EF2B2A145400B627AC /* WorksUpCloseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E0F11EE2B2A145400B627AC /* WorksUpCloseViewController.swift */; };
+		6E0F11F12B2A166D00B627AC /* ArtWorkCardCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E0F11F02B2A166D00B627AC /* ArtWorkCardCollectionViewCell.swift */; };
+		6E0F11F32B2A38A300B627AC /* currentExhibitions.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E0F11F22B2A38A300B627AC /* currentExhibitions.json */; };
+		6E0F11F52B2A4DCD00B627AC /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E0F11F42B2A4DCD00B627AC /* Models.swift */; };
 		6E43CF072B28F6C8003055DF /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E43CF062B28F6C8003055DF /* MapViewController.swift */; };
 		6E43CF092B28F6E8003055DF /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E43CF082B28F6E8003055DF /* HomeViewController.swift */; };
 		6E43CF0B2B28F6FF003055DF /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E43CF0A2B28F6FF003055DF /* ProfileViewController.swift */; };
@@ -14,8 +18,11 @@
 		6E43CF212B298027003055DF /* TangFont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6E43CF1E2B298027003055DF /* TangFont.ttf */; };
 		6E43CF222B298027003055DF /* ExhibitionTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E43CF1F2B298027003055DF /* ExhibitionTableViewCell.swift */; };
 		6E43CF232B298027003055DF /* ExhibitionCloseUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E43CF202B298027003055DF /* ExhibitionCloseUpViewController.swift */; };
-		6E43CF252B298041003055DF /* ExhibitionInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E43CF242B298041003055DF /* ExhibitionInfo.swift */; };
-		6E43CF272B298048003055DF /* Artwork.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E43CF262B298048003055DF /* Artwork.swift */; };
+		6E43CF312B2992E5003055DF /* ArtworkArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E43CF302B2992E5003055DF /* ArtworkArray.swift */; };
+		6E43CF3A2B2996F4003055DF /* Artwork+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E43CF362B2996F4003055DF /* Artwork+CoreDataClass.swift */; };
+		6E43CF3B2B2996F4003055DF /* Artwork+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E43CF372B2996F4003055DF /* Artwork+CoreDataProperties.swift */; };
+		6E43CF3C2B2996F4003055DF /* Exhibition+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E43CF382B2996F4003055DF /* Exhibition+CoreDataClass.swift */; };
+		6E43CF3D2B2996F4003055DF /* Exhibition+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E43CF392B2996F4003055DF /* Exhibition+CoreDataProperties.swift */; };
 		6EDD2A062B03ECDA00D274BA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EDD2A052B03ECDA00D274BA /* AppDelegate.swift */; };
 		6EDD2A082B03ECDA00D274BA /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EDD2A072B03ECDA00D274BA /* SceneDelegate.swift */; };
 		6EDD2A0D2B03ECDA00D274BA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6EDD2A0B2B03ECDA00D274BA /* Main.storyboard */; };
@@ -25,6 +32,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6E0F11EE2B2A145400B627AC /* WorksUpCloseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorksUpCloseViewController.swift; sourceTree = "<group>"; };
+		6E0F11F02B2A166D00B627AC /* ArtWorkCardCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtWorkCardCollectionViewCell.swift; sourceTree = "<group>"; };
+		6E0F11F22B2A38A300B627AC /* currentExhibitions.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = currentExhibitions.json; sourceTree = "<group>"; };
+		6E0F11F42B2A4DCD00B627AC /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
 		6E43CF062B28F6C8003055DF /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 		6E43CF082B28F6E8003055DF /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		6E43CF0A2B28F6FF003055DF /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
@@ -32,8 +43,11 @@
 		6E43CF1E2B298027003055DF /* TangFont.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = TangFont.ttf; sourceTree = "<group>"; };
 		6E43CF1F2B298027003055DF /* ExhibitionTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExhibitionTableViewCell.swift; sourceTree = "<group>"; };
 		6E43CF202B298027003055DF /* ExhibitionCloseUpViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExhibitionCloseUpViewController.swift; sourceTree = "<group>"; };
-		6E43CF242B298041003055DF /* ExhibitionInfo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExhibitionInfo.swift; sourceTree = "<group>"; };
-		6E43CF262B298048003055DF /* Artwork.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Artwork.swift; sourceTree = "<group>"; };
+		6E43CF302B2992E5003055DF /* ArtworkArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtworkArray.swift; sourceTree = "<group>"; };
+		6E43CF362B2996F4003055DF /* Artwork+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Artwork+CoreDataClass.swift"; sourceTree = "<group>"; };
+		6E43CF372B2996F4003055DF /* Artwork+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Artwork+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		6E43CF382B2996F4003055DF /* Exhibition+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Exhibition+CoreDataClass.swift"; sourceTree = "<group>"; };
+		6E43CF392B2996F4003055DF /* Exhibition+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Exhibition+CoreDataProperties.swift"; sourceTree = "<group>"; };
 		6EDD2A022B03ECDA00D274BA /* TangApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TangApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6EDD2A052B03ECDA00D274BA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6EDD2A072B03ECDA00D274BA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -55,16 +69,19 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		6E43CF2E2B299279003055DF /* Extra */ = {
+			isa = PBXGroup;
+			children = (
+				6EDD2A112B03ECDC00D274BA /* Assets.xcassets */,
+				6E43CF1E2B298027003055DF /* TangFont.ttf */,
+			);
+			path = Extra;
+			sourceTree = "<group>";
+		};
 		6EDD29F92B03ECDA00D274BA = {
 			isa = PBXGroup;
 			children = (
 				6EDD2A042B03ECDA00D274BA /* TangApp */,
-				6EDD2A0E2B03ECDA00D274BA /* TangApp.xcdatamodeld */,
-				6E43CF202B298027003055DF /* ExhibitionCloseUpViewController.swift */,
-				6E43CF1F2B298027003055DF /* ExhibitionTableViewCell.swift */,
-				6E43CF1E2B298027003055DF /* TangFont.ttf */,
-				6E43CF242B298041003055DF /* ExhibitionInfo.swift */,
-				6E43CF262B298048003055DF /* Artwork.swift */,
 				6EDD2A032B03ECDA00D274BA /* Products */,
 			);
 			sourceTree = "<group>";
@@ -80,16 +97,28 @@
 		6EDD2A042B03ECDA00D274BA /* TangApp */ = {
 			isa = PBXGroup;
 			children = (
-				6E43CF122B2954FB003055DF /* ViewController.swift */,
+				6E0F11F22B2A38A300B627AC /* currentExhibitions.json */,
+				6E43CF2E2B299279003055DF /* Extra */,
+				6EDD2A0B2B03ECDA00D274BA /* Main.storyboard */,
+				6EDD2A132B03ECDC00D274BA /* LaunchScreen.storyboard */,
 				6EDD2A052B03ECDA00D274BA /* AppDelegate.swift */,
 				6EDD2A072B03ECDA00D274BA /* SceneDelegate.swift */,
+				6E43CF362B2996F4003055DF /* Artwork+CoreDataClass.swift */,
+				6E43CF372B2996F4003055DF /* Artwork+CoreDataProperties.swift */,
+				6E43CF382B2996F4003055DF /* Exhibition+CoreDataClass.swift */,
+				6E43CF392B2996F4003055DF /* Exhibition+CoreDataProperties.swift */,
+				6EDD2A0E2B03ECDA00D274BA /* TangApp.xcdatamodeld */,
+				6EDD2A162B03ECDC00D274BA /* Info.plist */,
+				6E43CF122B2954FB003055DF /* ViewController.swift */,
 				6E43CF0A2B28F6FF003055DF /* ProfileViewController.swift */,
 				6E43CF082B28F6E8003055DF /* HomeViewController.swift */,
 				6E43CF062B28F6C8003055DF /* MapViewController.swift */,
-				6EDD2A0B2B03ECDA00D274BA /* Main.storyboard */,
-				6EDD2A112B03ECDC00D274BA /* Assets.xcassets */,
-				6EDD2A132B03ECDC00D274BA /* LaunchScreen.storyboard */,
-				6EDD2A162B03ECDC00D274BA /* Info.plist */,
+				6E43CF202B298027003055DF /* ExhibitionCloseUpViewController.swift */,
+				6E43CF1F2B298027003055DF /* ExhibitionTableViewCell.swift */,
+				6E43CF302B2992E5003055DF /* ArtworkArray.swift */,
+				6E0F11EE2B2A145400B627AC /* WorksUpCloseViewController.swift */,
+				6E0F11F02B2A166D00B627AC /* ArtWorkCardCollectionViewCell.swift */,
+				6E0F11F42B2A4DCD00B627AC /* Models.swift */,
 			);
 			path = TangApp;
 			sourceTree = "<group>";
@@ -152,6 +181,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6E0F11F32B2A38A300B627AC /* currentExhibitions.json in Resources */,
 				6EDD2A152B03ECDC00D274BA /* LaunchScreen.storyboard in Resources */,
 				6E43CF212B298027003055DF /* TangFont.ttf in Resources */,
 				6EDD2A122B03ECDC00D274BA /* Assets.xcassets in Resources */,
@@ -167,14 +197,20 @@
 			buildActionMask = 2147483647;
 			files = (
 				6E43CF132B2954FB003055DF /* ViewController.swift in Sources */,
-				6E43CF272B298048003055DF /* Artwork.swift in Sources */,
+				6E0F11F52B2A4DCD00B627AC /* Models.swift in Sources */,
 				6EDD2A062B03ECDA00D274BA /* AppDelegate.swift in Sources */,
+				6E43CF312B2992E5003055DF /* ArtworkArray.swift in Sources */,
 				6EDD2A082B03ECDA00D274BA /* SceneDelegate.swift in Sources */,
 				6E43CF072B28F6C8003055DF /* MapViewController.swift in Sources */,
+				6E0F11EF2B2A145400B627AC /* WorksUpCloseViewController.swift in Sources */,
 				6E43CF0B2B28F6FF003055DF /* ProfileViewController.swift in Sources */,
+				6E43CF3A2B2996F4003055DF /* Artwork+CoreDataClass.swift in Sources */,
 				6EDD2A102B03ECDA00D274BA /* TangApp.xcdatamodeld in Sources */,
-				6E43CF252B298041003055DF /* ExhibitionInfo.swift in Sources */,
+				6E43CF3C2B2996F4003055DF /* Exhibition+CoreDataClass.swift in Sources */,
 				6E43CF222B298027003055DF /* ExhibitionTableViewCell.swift in Sources */,
+				6E43CF3B2B2996F4003055DF /* Artwork+CoreDataProperties.swift in Sources */,
+				6E43CF3D2B2996F4003055DF /* Exhibition+CoreDataProperties.swift in Sources */,
+				6E0F11F12B2A166D00B627AC /* ArtWorkCardCollectionViewCell.swift in Sources */,
 				6E43CF092B28F6E8003055DF /* HomeViewController.swift in Sources */,
 				6E43CF232B298027003055DF /* ExhibitionCloseUpViewController.swift in Sources */,
 			);
