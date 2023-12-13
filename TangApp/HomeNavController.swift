@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  HomeNavController.swift
 //  TangApp
 //
 //  Created by helen branch on 12/12/23.
@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class HomeNavController: UINavigationController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
