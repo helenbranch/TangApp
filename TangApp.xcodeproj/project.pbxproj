@@ -7,13 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		6E66ED002B0D272700FC1E5F /* CollectionTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E66ECFE2B0D272700FC1E5F /* CollectionTableViewCell.swift */; };
-		6E66ED012B0D272700FC1E5F /* CollectionTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6E66ECFF2B0D272700FC1E5F /* CollectionTableViewCell.xib */; };
-		6E66ED062B0D276700FC1E5F /* MyCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E66ED042B0D276700FC1E5F /* MyCollectionViewCell.swift */; };
-		6E66ED072B0D276700FC1E5F /* MyCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6E66ED052B0D276700FC1E5F /* MyCollectionViewCell.xib */; };
+		6E43CF072B28F6C8003055DF /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E43CF062B28F6C8003055DF /* MapViewController.swift */; };
+		6E43CF092B28F6E8003055DF /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E43CF082B28F6E8003055DF /* HomeViewController.swift */; };
+		6E43CF0B2B28F6FF003055DF /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E43CF0A2B28F6FF003055DF /* ProfileViewController.swift */; };
+		6E43CF132B2954FB003055DF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E43CF122B2954FB003055DF /* ViewController.swift */; };
 		6EDD2A062B03ECDA00D274BA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EDD2A052B03ECDA00D274BA /* AppDelegate.swift */; };
 		6EDD2A082B03ECDA00D274BA /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EDD2A072B03ECDA00D274BA /* SceneDelegate.swift */; };
-		6EDD2A0A2B03ECDA00D274BA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EDD2A092B03ECDA00D274BA /* ViewController.swift */; };
 		6EDD2A0D2B03ECDA00D274BA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6EDD2A0B2B03ECDA00D274BA /* Main.storyboard */; };
 		6EDD2A102B03ECDA00D274BA /* TangApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 6EDD2A0E2B03ECDA00D274BA /* TangApp.xcdatamodeld */; };
 		6EDD2A122B03ECDC00D274BA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6EDD2A112B03ECDC00D274BA /* Assets.xcassets */; };
@@ -21,14 +20,13 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		6E66ECFE2B0D272700FC1E5F /* CollectionTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionTableViewCell.swift; sourceTree = "<group>"; };
-		6E66ECFF2B0D272700FC1E5F /* CollectionTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CollectionTableViewCell.xib; sourceTree = "<group>"; };
-		6E66ED042B0D276700FC1E5F /* MyCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCollectionViewCell.swift; sourceTree = "<group>"; };
-		6E66ED052B0D276700FC1E5F /* MyCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MyCollectionViewCell.xib; sourceTree = "<group>"; };
+		6E43CF062B28F6C8003055DF /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
+		6E43CF082B28F6E8003055DF /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		6E43CF0A2B28F6FF003055DF /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		6E43CF122B2954FB003055DF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		6EDD2A022B03ECDA00D274BA /* TangApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TangApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6EDD2A052B03ECDA00D274BA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6EDD2A072B03ECDA00D274BA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		6EDD2A092B03ECDA00D274BA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		6EDD2A0C2B03ECDA00D274BA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		6EDD2A0F2B03ECDA00D274BA /* TangApp.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = TangApp.xcdatamodel; sourceTree = "<group>"; };
 		6EDD2A112B03ECDC00D274BA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -47,24 +45,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		6E66ECFC2B0D26D300FC1E5F /* Table Cell */ = {
-			isa = PBXGroup;
-			children = (
-				6E66ECFE2B0D272700FC1E5F /* CollectionTableViewCell.swift */,
-				6E66ECFF2B0D272700FC1E5F /* CollectionTableViewCell.xib */,
-			);
-			path = "Table Cell";
-			sourceTree = "<group>";
-		};
-		6E66ECFD2B0D26E100FC1E5F /* Collection Cell  */ = {
-			isa = PBXGroup;
-			children = (
-				6E66ED042B0D276700FC1E5F /* MyCollectionViewCell.swift */,
-				6E66ED052B0D276700FC1E5F /* MyCollectionViewCell.xib */,
-			);
-			path = "Collection Cell ";
-			sourceTree = "<group>";
-		};
 		6EDD29F92B03ECDA00D274BA = {
 			isa = PBXGroup;
 			children = (
@@ -85,11 +65,12 @@
 		6EDD2A042B03ECDA00D274BA /* TangApp */ = {
 			isa = PBXGroup;
 			children = (
-				6E66ECFD2B0D26E100FC1E5F /* Collection Cell  */,
-				6E66ECFC2B0D26D300FC1E5F /* Table Cell */,
+				6E43CF122B2954FB003055DF /* ViewController.swift */,
 				6EDD2A052B03ECDA00D274BA /* AppDelegate.swift */,
 				6EDD2A072B03ECDA00D274BA /* SceneDelegate.swift */,
-				6EDD2A092B03ECDA00D274BA /* ViewController.swift */,
+				6E43CF0A2B28F6FF003055DF /* ProfileViewController.swift */,
+				6E43CF082B28F6E8003055DF /* HomeViewController.swift */,
+				6E43CF062B28F6C8003055DF /* MapViewController.swift */,
 				6EDD2A0B2B03ECDA00D274BA /* Main.storyboard */,
 				6EDD2A112B03ECDC00D274BA /* Assets.xcassets */,
 				6EDD2A132B03ECDC00D274BA /* LaunchScreen.storyboard */,
@@ -156,11 +137,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6E66ED072B0D276700FC1E5F /* MyCollectionViewCell.xib in Resources */,
 				6EDD2A152B03ECDC00D274BA /* LaunchScreen.storyboard in Resources */,
 				6EDD2A122B03ECDC00D274BA /* Assets.xcassets in Resources */,
 				6EDD2A0D2B03ECDA00D274BA /* Main.storyboard in Resources */,
-				6E66ED012B0D272700FC1E5F /* CollectionTableViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -171,12 +150,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6E66ED002B0D272700FC1E5F /* CollectionTableViewCell.swift in Sources */,
-				6EDD2A0A2B03ECDA00D274BA /* ViewController.swift in Sources */,
-				6E66ED062B0D276700FC1E5F /* MyCollectionViewCell.swift in Sources */,
+				6E43CF132B2954FB003055DF /* ViewController.swift in Sources */,
 				6EDD2A062B03ECDA00D274BA /* AppDelegate.swift in Sources */,
 				6EDD2A082B03ECDA00D274BA /* SceneDelegate.swift in Sources */,
+				6E43CF072B28F6C8003055DF /* MapViewController.swift in Sources */,
+				6E43CF0B2B28F6FF003055DF /* ProfileViewController.swift in Sources */,
 				6EDD2A102B03ECDA00D274BA /* TangApp.xcdatamodeld in Sources */,
+				6E43CF092B28F6E8003055DF /* HomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
