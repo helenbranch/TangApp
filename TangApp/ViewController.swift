@@ -11,9 +11,9 @@ class ViewController: UIViewController {
     
     let tabBarVC = UITabBarController()
     
-    let vc1 = MapViewController()
+    let vc1 = UINavigationController(rootViewController: MapViewController())
     let vc2 = UINavigationController(rootViewController: HomeViewController())
-    let vc3 = ProfileViewController()
+    let vc3 = UINavigationController(rootViewController: ProfileViewController())
 
     override func viewDidLoad() {
         super.viewDidLoad()
